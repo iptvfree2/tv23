@@ -1,11 +1,3 @@
 #EXTM3U
-#EXTINF:-1,911
-#EXTGRP:DRAMA
-#EXTVLCOPT:artwork
-URL=https://images.justwatch.com/poster/263780210/s166/temporada-5.webp
-#EXTDESC:Synopsis:es de emergencia.
-AÑO:2019.Caategoria,ciencia Ficcion.
-#EXTSEASON:1
-https://ia902500.us.archive.org/26/items/1_20220316_20220316_1710/1.mp4
-#EXTSEASON:2
+#EXTINF:-1 tvg-id="PlanetaTVMovie.cl" tvg-logo="https://i.imgur.com/ZjIgPmV.png" group-title="Serie",PlanetaTV Movie (720p)
 https://ia802508.us.archive.org/25/items/vid-20220119-wa-0005/VID-20220119-WA0005.mp4
