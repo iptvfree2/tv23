@@ -1,0 +1,20 @@
+#EXTM3U
+#EXTINF:0 tvg-country="ES" tvg-logo="https://pics.filmaffinity.com/Shrek-903764423-large.jpg" group-title="infantil",Sherk
+http://player24.cf/movie/stream/360/ZdL1dDsAQM7n2A7.mp4
+
+#EXTINF:0 tvg-country="ES" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/0/0a/Shrek2.jpg/revision/latest?cb=20210415201134&path-prefix=es" group-title="infantil",Sherk2
+http://player24.cf/movie/stream/360/OfPWvoAh33MXmDH.mp4
+
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.blogs.es/98cb78/shrek3/450_1000.jpg" group-title="infantil",Sherk3
+http://player24.cf/movie/stream/360/9M3aAo3GUMqSjT3.mp4
+
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.filmmusicsite.com/es/images/covers/xlarge/2849.jpg" group-title="infantil",Sherk4
+http://player24.cf/movie/stream/360/dnNEIfsTKOg2Oa8.mp4
+
+
+#EXTINF:110, Mi Película 2
+#EXTINF: Una joven descubre que tiene habilidades sobrenaturales y debe enfrentarse a su destino para salvar a su pueblo.
+#EXTINF:Fecha de lanzamiento: 2021-09-24
+#EXTINF:Duración: 110
+http://player24.cf/movie/stream/360/dnNEIfsTKOg2Oa8.mp4
+
